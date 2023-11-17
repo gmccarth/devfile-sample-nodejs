@@ -1,4 +1,4 @@
-# Creating an application with a Node.js code sample
+# Creating my application with a Node.js code sample
 
 **Note:** The Node.js code sample uses the **8081** HTTP port.
 
